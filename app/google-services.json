@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760771062300",
+    "project_id": "androidui-96a25",
+    "storage_bucket": "androidui-96a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760771062300:android:c641452791a69ad45f0dd9",
+        "android_client_info": {
+          "package_name": "com.example.androidui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760771062300-h3knk1pl90vjb0glrcvdsg63mi8n2glk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDioNiQJO-4-WVbceiEnhxXXRJzJx-uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760771062300-h3knk1pl90vjb0glrcvdsg63mi8n2glk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
